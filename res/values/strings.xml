@@ -4,5 +4,6 @@
     <string name="app_name">sp2014f_testpro2</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="authors">Yoshihiko Suko</string>
 
 </resources>
